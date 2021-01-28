@@ -1,5 +1,5 @@
 # MIPS_Assembler
-MIPS Archtecture Assembler written in Python Language
+MIPS Architecture Assembler written in Python Language
 
 The interactive mode reads an instruction from command line, assembles it to hexadecimal
 (converting from pseudo-instruction as necessary), and outputs the result to the screen. The batch
