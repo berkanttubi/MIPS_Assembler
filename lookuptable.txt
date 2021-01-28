@@ -1,0 +1,15 @@
+add
+sub
+sw
+lw
+jr
+move
+addi
+slti
+beq
+bne
+jal
+j
+slt
+sll
+jra
