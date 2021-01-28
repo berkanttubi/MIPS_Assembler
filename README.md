@@ -10,5 +10,5 @@ lookuptable.txt includes the operation that this assembler support. You can add/
 input.src includes code example to check whether assembler is working or not
 
 The sample output:
-![Sample](output.png)
+![Sample](Output.png)
 
